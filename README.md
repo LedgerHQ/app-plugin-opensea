@@ -1,3 +1,7 @@
+:warning: This repository contains older versions of the OpenSea Ethereum plugin and is now read only. :warning:
+
+Newer versions' source can be found [here](https://github.com/LedgerHQ/app-plugin-opensea-new).
+
 # OpenSea plugin
 
 This is an app plugin for the [Ethereum application](https://github.com/LedgerHQ/app-ethereum) on Ledger Nano S and X cold-storage devices.
